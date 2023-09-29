@@ -1,0 +1,40 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_C97BBBFB_DD75_0EF6_4192_A8693A0A565F.toolTip = Despensa
+
+## Media
+
+### Title
+panorama_BF62000D_AECD_6D2A_41E5_B8D30DC08DE0.label = Banheiro
+panorama_BF66C015_AECD_2D3A_41C0_164FDEB5B928.label = Banheiro Lavanderia
+panorama_BF662A88_AECD_7D2A_41D6_878799C7D40D.label = Banheiro com hidro
+panorama_BF66CDF7_AECD_16E6_41E5_A0754E6BD17F.label = Closet
+panorama_BF6619D1_AECD_FF3B_41DC_E51F513CB219.label = Corredor
+panorama_BF663578_AECD_17E9_41E2_51BA6354D09F.label = Corredor-banheiro
+panorama_BF666B81_AECD_331A_41E0_592005326C3E.label = Cozinha2
+panorama_BF660B53_AECD_133F_41DC_F55605543F2B.label = Quarto 1
+panorama_BF666022_AECD_6D19_41E4_6308316ABCD1.label = Quarto-sala
+panorama_BF6676DF_AECD_1527_41B0_A6FA02346735.label = Quarto2
+panorama_BF6622B8_AECD_6D69_41D4_675CB1DF7BD2.label = Quarto3
+panorama_BF61CDFB_AECD_36E8_41E0_5AAEA1FD9DF7.label = Sala1
+panorama_BF6685C2_AECD_171E_41DC_38664C935E26.label = banheiro corredor
+panorama_BE418CF6_B3B1_7423_41E5_4C88E74E3057.label = cozinha
+panorama_CCB93A4F_DD4D_092C_41A8_4F8CDE56579E.label = suite 2_banheiro
+video_CDB57BC8_DD6C_6BE1_41CA_D61773BC99E5.label = video
+panorama_BDE343B8_AECD_136A_41E4_1955AD574374.label = àrea de Serviço
+
+### Video
+videolevel_CF80A9CC_DD64_B7E1_41D6_3C8E3A9BEA89.posterURL = media/video_CDB57BC8_DD6C_6BE1_41CA_D61773BC99E5_poster_pt.jpg
+videolevel_CF80A9CC_DD64_B7E1_41D6_3C8E3A9BEA89.url = media/video_CDB57BC8_DD6C_6BE1_41CA_D61773BC99E5_pt.mp4
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
